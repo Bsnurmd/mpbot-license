@@ -6,21 +6,21 @@
   "devices": {
     "70E97CD2-A5F4-F03A-E2EB-A0AD9FDC5D66": {
       "active": true,
-      "label": "PC-1",
+      "label": "NuR MOhammaD",
       "expires": "2027-12-31",
       "notice": "NUR MOHAMMAD"
     },
-    "PC-2-BIOS-UUID-HERE": {
+    "B519CDF0-C03E-11E9-82B3-CD24E402E02E": {
       "active": true,
-      "label": "PC-2",
+      "label": "Laptop",
       "expires": "2027-12-31",
-      "notice": "PC-2 এর জন্য আলাদা নোটিশ"
+      "notice": "Laptop"
     },
-    "PC-2-BIOS-UUID-HERE": {
+    "03000200-0400-0500-0006-000700080009": {
       "active": true,
-      "label": "PC-2",
+      "label": "Bappi PC",
       "expires": "2027-12-31",
-      "notice": "PC-3 এর জন্য আলাদা নোটিশ"
+      "notice": "BAPPI"
     }
   }
 }
