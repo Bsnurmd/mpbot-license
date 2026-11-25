@@ -1,0 +1,24 @@
+{
+  "all_pc_notice": "সব পিসির জন্য নোটিশ: সিস্টেম লাইসেন্স সক্রিয় আছে।",
+  "global_notice": "",
+  "devices": {
+    "70E97CD2-A5F4-F03A-E2EB-A0AD9FDC5D66": {
+      "active": true,
+      "label": "PC-1",
+      "expires": "2027-12-31",
+      "notice": ""
+    },
+    "PC-2-BIOS-UUID-HERE": {
+      "active": true,
+      "label": "PC-2",
+      "expires": "2027-12-31",
+      "notice": ""
+    },
+    "PC-3-BIOS-UUID-HERE": {
+      "active": true,
+      "label": "PC-3",
+      "expires": "2027-12-31",
+      "notice": ""
+    }
+  }
+}
