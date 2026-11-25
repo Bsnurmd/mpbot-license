@@ -1,24 +1,26 @@
 {
-  "all_pc_notice": "সব পিসির জন্য নোটিশ: সিস্টেম লাইসেন্স সক্রিয় আছে।",
+  "maintenance_mode": false,
+  "maintenance_notice": "",
+  "all_pc_notice": "সব পিসির জন্য গ্লোবাল নোটিশ।",
   "global_notice": "",
   "devices": {
     "70E97CD2-A5F4-F03A-E2EB-A0AD9FDC5D66": {
       "active": true,
       "label": "PC-1",
       "expires": "2027-12-31",
-      "notice": ""
+      "notice": "NUR MOHAMMAD"
     },
     "PC-2-BIOS-UUID-HERE": {
       "active": true,
       "label": "PC-2",
       "expires": "2027-12-31",
-      "notice": ""
+      "notice": "PC-2 এর জন্য আলাদা নোটিশ"
     },
-    "PC-3-BIOS-UUID-HERE": {
+    "PC-2-BIOS-UUID-HERE": {
       "active": true,
-      "label": "PC-3",
+      "label": "PC-2",
       "expires": "2027-12-31",
-      "notice": ""
+      "notice": "PC-3 এর জন্য আলাদা নোটিশ"
     }
   }
 }
