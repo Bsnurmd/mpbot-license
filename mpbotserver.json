@@ -5,7 +5,7 @@
   "global_notice": "",
   "devices": {
     "70E97CD2-A5F4-F03A-E2EB-A0AD9FDC5D66": {
-      "active": false,
+      "active": true,
       "label": "PC-1",
       "expires": "2027-12-31",
       "notice": "NUR MOHAMMAD"
